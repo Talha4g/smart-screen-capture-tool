@@ -141,5 +141,7 @@ If you found this tool helpful, please give it a star ⭐️!
 - Special thanks to the Tesseract OCR community
 - Built with Python and Tesseract OCR
 
+Love you all
+
 ---
 Made with ❤️ by Talah Tanveer
